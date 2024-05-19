@@ -16,9 +16,9 @@ This repository contains a project developed as part of a Program of Tutorial Ed
 
 <h3>Result:</h3>
 
-<div>
-  <div align = "center">
+
+<div align = "center">
   <img height = 300 src="image.jpg" alt="Original">
   <img height = 300 src="result.png" alt="Resultado">
 </div>
-</div>
+
