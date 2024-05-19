@@ -13,3 +13,12 @@ This repository contains a project developed as part of a Program of Tutorial Ed
   <li>Adaptive Gaussian threshold.</li>
 </ol>
 <p>To facilitate visualization, plot the grayscale image and the binary images as a matrix with two rows and three columns, properly identifying the captions. What observations can you make?</p>
+
+<h3>Result:</h3>
+
+<div>
+  <div align = "center">
+  <img height = 300 src="image.jpg" alt="Imagem 1">
+  <img height = 300 src="result.png" alt="Imagem 2">
+</div>
+</div>
