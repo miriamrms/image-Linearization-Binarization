@@ -3,6 +3,7 @@ This repository contains a project developed as part of a Program of Tutorial Ed
 
 <h2>Image Linearization and Binarization</h2>
 
+<h3>Challenge:</h3>
 <p>Using preferably the same image from the exercises on high-pass and low-pass filters, convert the image to grayscale and display the result. Then, generate binary versions using thresholding:</p>
 <ol>
   <li>Threshold of 30;</li>
